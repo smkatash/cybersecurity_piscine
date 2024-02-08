@@ -17,6 +17,24 @@ func ReadKeyFromFile(file string) []byte {
 	return key
 }
 
+func GenerateQR(seed []byte) bool {
+	qrCode, err := qrcode.New(string(seed), qrcode.Medium)
+	if err != nil {
+		logger.LogError(err)
+	}
+
+	file, err := os.Create("qrcode.png")
+	if err != nil {
+		logger.LogError(err)
+	}
+	defer file.Close()
+
+	if err := qrCode.Write(256, file); err != nil {
+		logger.LogError(err)
+	}
+	return true
+}
+
 func ft_otp(args []string) {
 	if args[1] == "-g" && strings.HasSuffix(args[2], ".hex") {
 		if EncodeKey(ReadKeyFromFile(args[2])) {
@@ -34,27 +52,6 @@ func ft_otp(args []string) {
 	} else {
 		logger.LogUsage()
 	}
-}
-
-func GenerateQR(seed []byte) bool {
-	qrCode, err := qrcode.New(string(seed), qrcode.Medium)
-	if err != nil {
-		logger.LogError(err)
-		return false
-	}
-
-	file, err := os.Create("qrcode.png")
-	if err != nil {
-		logger.LogError(err)
-		return false
-	}
-	defer file.Close()
-
-	if err := qrCode.Write(256, file); err != nil {
-		logger.LogError(err)
-		return false
-	}
-	return true
 }
 
 func main() {
