@@ -1,0 +1,13 @@
+version: '3.8'
+
+services:
+  server:
+    container_name: nginx-server
+    image: nginx
+    build:
+      context: ./srcs
+      dockerfile: Dockerfile
+    ports:
+      - 80:80
+      - 4242:4242
+    restart: unless-stopped

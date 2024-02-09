@@ -18,7 +18,8 @@ func ReadKeyFromFile(file string) []byte {
 }
 
 func GenerateQR(seed []byte) bool {
-	qrCode, err := qrcode.New(string(seed), qrcode.Medium)
+	result := "otpauth://totp/ktashbae:ft_otp_user?secret=" + string(seed) + "&issuer=ktashbae"
+	qrCode, err := qrcode.New(result, qrcode.Medium)
 	if err != nil {
 		logger.LogError(err)
 	}
