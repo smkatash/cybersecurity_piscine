@@ -1,0 +1,11 @@
+version: '3.8'
+
+services:
+  reverseme:
+    container_name: reverseme
+    build:
+      context: .
+      dockerfile: Dockerfile
+    volumes:
+      - /Users/kanykei/Desktop/cybersecurity-piscine/reverseme/srcs:/app
+    restart: unless-stopped
