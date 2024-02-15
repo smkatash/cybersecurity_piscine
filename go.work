@@ -1,7 +1,8 @@
-go 1.21.5
+go 1.22.0
 
 use (
 	./arachnida/ex01-spider
 	./arachnida/ex02-scorpion
 	./ft_otp
+	./stockholm/stockholm
 )

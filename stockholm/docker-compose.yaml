@@ -1,0 +1,11 @@
+version: '3.8'
+
+services:
+  infection:
+    container_name: infection
+    build:
+      context: .
+      dockerfile: Dockerfile
+    volumes:
+      - ./stockholm:/stockholm
+    restart: unless-stopped 
