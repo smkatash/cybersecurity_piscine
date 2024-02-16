@@ -9,6 +9,7 @@ import (
 	"io"
 	"os"
 	"regexp"
+	"encoding/hex"
 )
 
 var secretFile = "secret.key"
@@ -28,10 +29,11 @@ func CreateSecret() []byte {
 	if _, err := rand.Read(secret); err != nil {
 		logger.LogError(err)
 	}
-	if err := os.WriteFile(secretFile, secret, 0600); err != nil {
+	secretKey := hex.EncodeToString(secret)
+	if err := os.WriteFile(secretFile, []byte(secretKey), 0600); err != nil {
 		logger.LogError(err)
 	}
-	return secret
+	return []byte(secretKey)
 }
 
 func EncodeKey(inputKey []byte) bool {

@@ -2,7 +2,7 @@ BINARY_NAME := stockholm
 
 # ================================ Sources =================================== #
 
-SRC := main.go parse.go infect.go crypto.go
+SRC := main.go parse.go infect.go cipher.go
 
 # ================================ Rules ===================================== #
 .SILENT:

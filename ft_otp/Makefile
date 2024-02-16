@@ -2,7 +2,7 @@ BINARY_NAME := ft_otp
 
 # ================================ Sources =================================== #
 
-SRC := main.go hotp.go cypher.go
+SRC := main.go hotp.go cipher.go
 
 # ================================ Rules ===================================== #
 .SILENT:
