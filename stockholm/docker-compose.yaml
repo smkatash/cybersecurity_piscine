@@ -1,8 +1,8 @@
 version: '3.8'
 
 services:
-  infection:
-    container_name: infection
+  stockholm:
+    container_name: stockholm
     build:
       context: .
       dockerfile: Dockerfile

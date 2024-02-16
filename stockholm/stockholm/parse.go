@@ -3,33 +3,26 @@ package main
 import (
 	"fmt"
 	"strings"
-	"log"
 )
-
-var	silentMode = false
 
 func ParseOption(argslen int, args []string) {
 	if (argslen == 2) {
 		if (args[1] == "-version" || 
 			args[1] == "-v") {
-			fmt.Println("This is some version")
+			fmt.Println("stockholm:wann0cry.0.1")
 			return
-			} else if (args[1] == "-silent" || 
-			args[1] == "-s") {
-				silentMode = true
-				Infect()
-				return
-			}
+		} else if (args[1] == "-silent" || args[1] == "-s") {
+			silentMode = true
+			Infect()
+			return
+		}
 	} else if (argslen == 3) {
 		if (args[1] == "-reverse" || args[1] == "-r") {
 			if strings.HasSuffix(args[2], ".key") {
 				secretKey = args[2]
-			} else {
-				log.Fatal("Invalid key")
+				Reverse()
+				return
 			}
-			fmt.Println("Reversing")
- 			Reverse()
-			return
 		}
 	}
 	Help()

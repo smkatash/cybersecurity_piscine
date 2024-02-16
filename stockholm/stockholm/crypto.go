@@ -10,8 +10,6 @@ import  (
 	"fmt"
 )
 
-var secretKey string = "secret.key"
-
 func GenerateSecretKey() {
     keyBytes := make([]byte, 32)
     _, err := rand.Read(keyBytes)
@@ -27,12 +25,11 @@ func GenerateSecretKey() {
 
 func GetSecretKey() string {
 	key, err := os.ReadFile(secretKey)
-	fmt.Println("Getting " + string(key))
 	if err != nil {
 		log.Fatal(err)
     }
 	if len(key) < 16 {
-		log.Fatal("Key must be at least 16 characters long.")
+		log.Fatal("stockholm: key must be at least 16 characters long.")
 	}
 	return string(key)
 }
@@ -46,7 +43,7 @@ func EncryptFile(srcFile string) {
 	cmd := exec.Command("openssl", "enc", "-aes-256-cbc", "-pbkdf2", "-salt", "-in", srcFile, "-out",  destFile, "-k", GetSecretKey())
 	err := cmd.Run()
 	if err != nil {
-		log.Fatal("Error encrypting file:", err)
+		log.Fatal(err)
 	}
 	if (!silentMode) {
 		fmt.Println("encrypted: " + srcFile)
@@ -54,25 +51,23 @@ func EncryptFile(srcFile string) {
 	if destFile != srcFile {
 		err = os.Remove(srcFile)
 		if err != nil {
-			log.Fatal("Error removing file: ", err)
+			log.Fatal(err)
 		}
 	}
 }
 
 func DecryptFile(srcFile string) {
 	destFile := srcFile
-	if !strings.HasSuffix(srcFile, ".ft") {
-		destFile = strings.TrimSuffix(srcFile, ".ft")
+	if strings.HasSuffix(srcFile, ".ft") {
+		destFile = strings.TrimSuffix(destFile, ".ft")
 		if strings.HasSuffix(destFile, ".ft") {
 			return
 		}
 	}
-	fmt.Println(destFile)
-
-	cmd := exec.Command("openssl", "enc", "-aes-256-cbc", "-d", "-in", srcFile, "-out",  destFile, "-k", GetSecretKey())
+	cmd := exec.Command("openssl", "enc", "-aes-256-cbc", "-d", "-pbkdf2", "-in", srcFile, "-out",  destFile, "-k", GetSecretKey())
 	err := cmd.Run()
 	if err != nil {
-		log.Fatal("Error encrypting file:", err)
+		log.Fatal(err)
 	}
 	if (!silentMode) {
 		fmt.Println("decrypted: " + destFile)
@@ -80,7 +75,7 @@ func DecryptFile(srcFile string) {
 	if destFile != srcFile {
 		err = os.Remove(srcFile)
 		if err != nil {
-			log.Fatal("Error removing file: ", err)
+			log.Fatal(err)
 		}
 	}
 }
