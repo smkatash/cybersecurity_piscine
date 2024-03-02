@@ -6,5 +6,5 @@
 - [ft_onion - Web](/ft_onion/)
 - [Reverse me - Rev](/reverseme/)
 - [Stockholm - Malware](/stockholm/)
-- [Inquisitor - Network]()
+- [Inquisitor - Network](/inquisitor/)
 - [Vaccine - Web]()
