@@ -2,7 +2,7 @@ BINARY_NAME := vaccine
 
 # ================================ Sources =================================== #
 
-SRC := main.go 
+SRC := main.go scraper.go http_client.go sql_injector.go basic_commands.go
 
 # ================================ Rules ===================================== #
 .SILENT:
