@@ -4,6 +4,7 @@ import (
 	"golang.org/x/net/html"
 	"strings"
 	"fmt"
+	"net/url"
 )
 
 type Scraper struct {
@@ -15,6 +16,30 @@ type Form struct {
 	queryValues []string
 	queryURL string
 	colNum int
+}
+
+func (s *Scraper) GetPageValues(inputMethod string) []Form {
+	var forms []Form
+	response := s.client.Request("GET", url.Values{})
+	body, _ := s.client.Response(response)
+	formNodes, _ := s.extractHTMLForm(body) 
+	fmt.Println("Vulnerable forms found: ")
+	for _, form := range formNodes {
+		method := s.getFormMethod(form)
+		inputNames := s.getFormInputNames(form)
+		fmt.Printf("Method: %s\n", method)
+		fmt.Printf("Input Names: %v\n", inputNames)
+		fmt.Println()
+		if strings.ToUpper(inputMethod) != method {
+			fmt.Println("Input method is not supported! Proceeding ...")
+		}
+		forms = append(forms, Form{
+			inputMethod,
+			inputNames,
+			"", 0,
+		})
+	}
+	return forms
 }
 
 
@@ -75,26 +100,4 @@ func (s *Scraper) getFormInputNames(formNode *html.Node) []string {
 	findInputs(formNode)
 
 	return inputNames
-}
-
-
-func (s *Scraper) GetPageValues() []Form {
-	var forms []Form
-	response := s.client.Get("")
-	body, _ := s.client.Response(response)
-	formNodes, _ := s.extractHTMLForm(body) 
-	fmt.Println("Vulnerable forms found: ")
-	for _, form := range formNodes {
-		method := s.getFormMethod(form)
-		inputNames := s.getFormInputNames(form)
-		fmt.Printf("Method: %s\n", method)
-		fmt.Printf("Input Names: %v\n", inputNames)
-		fmt.Println()
-		forms = append(forms, Form{
-			method,
-			inputNames,
-			"", 0,
-		})
-	}
-	return forms
 }

