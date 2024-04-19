@@ -8,6 +8,7 @@ import (
     _ "image/gif"
     _ "image/jpeg"
     _ "image/png"
+	_ "golang.org/x/image/bmp"
 	"github.com/rwcarlsen/goexif/exif"
 	"github.com/rwcarlsen/goexif/tiff"
 )

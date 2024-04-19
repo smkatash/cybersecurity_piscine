@@ -9,7 +9,6 @@ import (
 
 var extensions = []string{".jpg", ".jpeg", ".png", ".gif", ".bmp"}
 
-// TODO bmp format!
 func IsValidImage(img string) bool {
 	for _, ext := range extensions {
 	  if strings.HasSuffix(strings.ToLower(img), ext) {
