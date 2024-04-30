@@ -24,50 +24,63 @@ func isValidKey(input []byte) bool {
 	return regex.MatchString(str)
 }
 
-func CreateSecret() []byte {
+func getSecret() []byte {
 	secret := make([]byte, 32)
 	if _, err := rand.Read(secret); err != nil {
 		logger.LogError(err)
 	}
-	secretKey := hex.EncodeToString(secret)
-	if err := os.WriteFile(secretFile, []byte(secretKey), 0600); err != nil {
+	if err := os.WriteFile(secretFile, secret, 0600); err != nil {
 		logger.LogError(err)
 	}
-	return []byte(secretKey)
+	return secret
 }
 
 func EncodeKey(inputKey []byte) bool {
 	if !isValidKey(inputKey) {
-		logger.LogErrorStr("key must be 64 hexadecimal characters.")
-		os.Exit(1)
-	}
+        logger.LogErrorStr("Key must be 64 hexadecimal characters.")
+        return false
+    }
 
-	secretKey := CreateSecret()
-	if secretKey == nil {
-		return false
-	}
-
-	ciph, err := aes.NewCipher(secretKey)
+	keyInBytes, err := hex.DecodeString(string(inputKey))
 	if err != nil {
-		logger.LogError(err)
-	}
+        logger.LogError(err)
+        return false
+    }
 
-	gmc, err := cipher.NewGCM(ciph)
-	if err != nil {
-		logger.LogError(err)
-	}
-	
-	nonce := make([]byte, gmc.NonceSize())
-	if _, err = io.ReadFull(rand.Reader, nonce); err != nil {
-		logger.LogError(err)
-	}
-	
-	if err = os.WriteFile("ft_otp.key", gmc.Seal(nonce, nonce, inputKey, nil), 0777); err != nil {
-		logger.LogError(err)
-	}
-	if GenerateQR(secretKey) {
-		fmt.Println("Seed QR code saved as qrcode.png")
-	}
+    secretKey := getSecret()
+    if secretKey == nil {
+        logger.LogErrorStr("Failed to generate secret key.")
+        return false
+    }
+
+    aesCipher, err := aes.NewCipher(secretKey)
+    if err != nil {
+        logger.LogError(err)
+        return false
+    }
+
+    gcm, err := cipher.NewGCM(aesCipher)
+    if err != nil {
+        logger.LogError(err)
+        return false
+    }
+
+    nonce := make([]byte, gcm.NonceSize())
+    if _, err := io.ReadFull(rand.Reader, nonce); err != nil {
+        logger.LogError(err)
+        return false
+    }
+
+    ciphertext := gcm.Seal(nil, nonce, keyInBytes, nil)
+
+    if err := os.WriteFile("ft_otp.key", append(nonce, ciphertext...), 0644); err != nil {
+        logger.LogError(err)
+        return false
+    }
+
+    if GenerateQR(secretKey) {
+        fmt.Println("Seed QR code saved as qrcode.png")
+    }
 	return true
 }
 
